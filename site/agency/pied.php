@@ -36,6 +36,7 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="public/js/agency.js"></script>
+<script src="public/js/script.js"></script>
 
 </body>
 

@@ -1,7 +1,7 @@
 <?php
 //session_start();
 include('entete.php');
-
+include('SocialMedia.php');
 //include('menu.php');
 ?>
 <!-- Header avec background-->
@@ -24,7 +24,7 @@ include('entete.php');
 
 <?php
 include('portfolio.php');
-include('SocialMedia.php');
+
 include('about-list.php');
 include('pied.php');
 ?>

@@ -5,7 +5,13 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">UI Developer</h2>
-                <h3 class="section-subheading text-muted">tout à un commencement</h3>
+                <section class="portfolio">
+                <h3 class="section-subheading text-muted">Bonjour, je m'appelle Marie Lucas & je suis UI developer...</h3>
+                Je viens de finir ma formation de web developer à Paris. <br>
+                    Mes compétences couvrent la programmation & le développement web, ainsi qu'une approche du Design.<br>
+                    Ma spécialité est l'expérience UI & Front-end des sites web et applications mobiles.<br>
+                    Je vous invite à découvrir mes compétences...
+            </section>
             </div>
         </div>
         <div class="row">
