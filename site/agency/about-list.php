@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">Mes hoobies</h2>
-                <h3 class="section-subheading text-muted"></h3>
+                <h3 class="section-subheading text-muted">... & je suis aussi Geek, écolo et surtout cavalière !</h3>
             </div>
         </div>
         <div class="row">
@@ -35,15 +35,6 @@
                             <div class="timeline-body">
                                 <p class="text-muted">Ancienne cavalière de haut niveau, l'équitation est ma plus grande passion...</p>
                             </div>
-                        </div>
-                    </li>
-
-
-                    <li class="timeline-inverted">
-                        <div class="timeline-image">
-                            <h4>contactez
-                                <br>-
-                                <br>moi</h4>
                         </div>
                     </li>
                 </ul>

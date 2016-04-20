@@ -6,7 +6,7 @@ include('SocialMedia.php');
 ?>
 <!-- Header avec background-->
 <header>
-    <div class="container">
+    <div class="container" id="top">
         <div class="intro-text">
             <section id="intro">
                 <h2 class="intro-heading animation fadeInDown">Marie<span class="name">Lucas</span></h2>

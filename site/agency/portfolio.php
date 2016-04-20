@@ -22,7 +22,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="public/img/portfolio/etoiledevenus.png" class="img-responsive" alt="">
+                    <img src="public/img/portfolio/etoiledevenus4.png" class="img-responsive" alt="">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Première expérience en Back & Front end</h4>
@@ -36,7 +36,7 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="public/img/portfolio/escrime.png " class="img-responsive" alt="">
+                    <img src="public/img/portfolio/FairPartFille.jpg" class="img-responsive" alt="Création Design">
                 </a>
                 <div class="portfolio-caption">
                     <h4>Créations personnelles</h4>
@@ -50,11 +50,11 @@
                             <i class="fa fa-plus fa-3x"></i>
                         </div>
                     </div>
-                    <img src="public/img/portfolio/treehouse.png" class="img-responsive" alt="">
+                    <img src="public/img/portfolio/escrime4.png" class="img-responsive" alt="Site associatif d'Escrime Montigny-les-Cormeilles">
                 </a>
                 <div class="portfolio-caption">
-                    <h4>Une chambre presque complète !</h4>
-                    <p class="text-muted">Duwood's Family Design</p>
+                    <h4>Projets personnels</h4>
+                    <p class="text-muted">Duwood's Design</p>
                 </div>
             </div>
             <div class="row">
@@ -87,9 +87,11 @@
                         <!-- Project Details Go Here -->
                         <h3>Etoile de Vénus</h3>
                         <p class="item-intro text-muted">Rénovation complète du site</p>
-                        <img class="img-responsive img-centered" src="public/img/portfolio/etoiledevenus.png" alt="">
+                        <img class="img-responsive img-centered" src="public/img/portfolio/etoiledevenus.png" alt="Site etoiledevenus.com">
                         <p>Un site remis au goût du jour, grâce notamment, à la technologie du "Flat Design", du "Design Responsive"</p>
-                        <p>Collaboration avec plusieurs gros clients comme Renault, Carlson Wagonlit Travel, Pompes funèbres générales, Groupe Alliance...</p>
+                        <p>Ce site a été refait lorsque j'étais chez Aabas Interactive, avec une équipe de deux autres développeurs Back & Front End.</p>
+                        <br>
+                        <img class="img-responsive img-centered" src="public/img/portfolio/etoiledevenus2.png" alt="Site etoiledevenus.com">
 
                         <button type="button" class="btn btn-xl" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                     </div>
@@ -112,11 +114,17 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h2>Site associatif de Montigny-les-Cormeilles</h2>
-                        <p class="item-intro text-muted">La clé, c'est la mode !</p>
-                        <img class="img-responsive img-centered" src="public/img/portfolio/escrime.png" alt="">
-                        <p>C'est en formation que j'ai rencontré Dominique, l'un des gérants du club d'escrime de Montigny. C'est tout naturellement, que je lui ai proposé mon aide pour refaire son site qui était malheuresement figé dans les années 2000...</p>
-                        <p>Redéfinition de l'aspect visuel du site, création de logos, création d'un back office... etc</p>
+                        <h2>Créations personnelles Design</h2>
+                        <p class="item-intro text-muted">Photoshop, Illustrator, Premier Pro</p>
+                        <img class="img-responsive img-centered" src="public/img/portfolio/ABSTour-2.jpg" alt="Création Design">
+                        <img class="img-responsive img-centered" src="public/img/portfolio/logo-1.jpg" alt="Création Design">
+
+                        <p>Un moment artistique, un pointe d'absurdité mais surtout des créations originales et authentiques. Ci-dessous, les Faire-part ont été créé pour qu'ils puisse être par la suite, plier sous forme de cocotte en papier.</p>
+                        <p>Merci de respecter le travail et les droits d'auteurs...</p>
+                        <br>
+                        <img class="img-responsive img-centered" src="public/img/portfolio/FairPartFille.jpg" alt="Création Design">
+                        <img class="img-responsive img-centered" src="public/img/portfolio/FairPartGars.jpg" alt="Création Design">
+
                         <button type="button" class="btn btn-xl" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                     </div>
                 </div>
@@ -138,12 +146,13 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <!-- Project Details Go Here -->
-                        <h2>La chambre se transforme...</h2>
-                        <p class="item-intro text-muted">Un lit, une commode, une poussette...</p>
-                        <img class="img-responsive img-centered" src="public/img/portfolio/treehouse-preview.png" alt="">
-                        <p>Treehouse is a free PSD web template built by <a href="https://www.behance.net/MathavanJaya">Mathavan Jaya</a>. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.</p>
-                        <p>You can download the PSD template in this portfolio sample item at <a href="http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/">FreebiesXpress.com</a>.</p>
+                        <h2>Site associatif de Montigny-les-Cormeilles</h2>
+                        <p class="item-intro text-muted">La clé, c'est la mode !</p>
+                        <img class="img-responsive img-centered" src="public/img/portfolio/escrime.png" alt="Site associatif d'Escrime">
+                        <p>C'est en formation que j'ai rencontré Dominique, l'un des gérants du club d'escrime de Montigny. C'est tout naturellement, que je lui ai proposé mon aide pour refaire son site qui était malheuresement figé dans les années 2000...</p>
+                        <p>Redéfinition de l'aspect visuel du site, Mock-up sous illustrator, création de logos, création d'un back office... etc</p>
+                        <br>
+                        <img class="img-responsive img-centered" src="public/img/portfolio/escrime2.png" alt="Site associatif d'Escrime">
                         <button type="button" class="btn btn-xl" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button>
                     </div>
                 </div>

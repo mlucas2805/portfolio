@@ -19,6 +19,7 @@
 <!--        </div>-->
 <!--    </div>-->
 <!--</footer>-->
+<a href="#top" id="scrollToTop"><img src="public/img/top.png" alt="Top"></a>
 <!-- jQuery -->
 <script src="public/js/jquery.js"></script>
 
