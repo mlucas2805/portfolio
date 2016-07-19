@@ -11,7 +11,7 @@
             <div class="col-lg-12">
                 <div>
                     <p> Pour toutes questions contacter moi :</p>
-                    marie'at'lucas'point'com
+                    mlucas92{at}live{point}fr
                 </div>
 <!--                <form name="sentMessage" id="contactForm" method="post" action="formulaire.php" novalidate>-->
 <!--                    <div class="row">-->
