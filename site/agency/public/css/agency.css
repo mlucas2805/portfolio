@@ -321,7 +321,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    /*color: #fff;*/
     /*background-attachment: scroll;*/
     background: url(../img/blockbuster-2.jpg) no-repeat center center scroll; /*BACKGROUND IMAGE INDEX */
     /*background-position: center center;*/
@@ -331,30 +331,31 @@ header {
     background-size: cover;
     -o-background-size: cover;
 }
+@media(min-width:500px) {
+    header .intro-text {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
 
-header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
-}
+    header .intro-text .intro-lead-in {
+        margin-bottom: 25px;
+        font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 22px;
+        font-style: italic;
+        line-height: 22px;
+    }
 
-header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
-    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 22px;
-    font-style: italic;
-    line-height: 22px;
-}
+    header .intro-text .intro-heading {
+        margin-bottom: 25px;
+        /*text-transform: uppercase;*/
+        font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-header .intro-text .intro-heading {
-    margin-bottom: 25px;
-    /*text-transform: uppercase;*/
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-
-    /*color: #fed136;*/
-    color: #6e91a1;
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 50px;
+        /*color: #fed136;*/
+        color: #6e91a1;
+        font-size: 50px;
+        font-weight: 700;
+        line-height: 50px;
+    }
 }
 
 /*@media(min-width:500px) {*/
@@ -385,12 +386,13 @@ header .intro-text .intro-heading {
 section {
     padding: 100px 0;
 }
-
+@media only screen and (min-width:768px){
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
     font-family: "digory_doodlesregular";
     font-size: 30px;
+}
 }
 
 section h3.section-subheading {

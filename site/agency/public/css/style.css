@@ -130,39 +130,46 @@
 }
 
 hr.small {
-    max-width: 200px;
+    max-width: 16.5em;
     border-color: black;
 }
 
-@media(min-width:500px) {
+
+    @media(min-width:31.25em) {
     header .intro-text {
-        padding-top: 100px;
-        padding-bottom: 200px;
+        padding-top: 6.25em;
+        padding-bottom: 12.5em;
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 1.5625em;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 20px;
+        font-size: 1.25em;
         font-style: italic;
-        line-height: 40px;
+        line-height: 2.5em;
         color: #022636;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        /*margin-bottom: 50px;*/
+        margin-bottom: 3.125em;
         /*text-transform: uppercase;*/
         font-family: 'niconneregular';
-        font-size: 40px;
+        /*font-size: 40px;*/
+        font-size: 2.5em;
         font-weight: 700;
-        line-height: 75px;
+        /*line-height: 75px;*/
+        line-height: 4.6875em;
     }
 }
 #scrollToTop img {
     position: fixed;
-    bottom: 30px;
-    right: 30px;
-    width: 40px;
+    /*bottom: 30px;*/
+    bottom: 1.875em;
+    /*right: 30px;*/
+    right: 1.875em;
+    /*width: 40px;*/
+    width: 2.5em;
     cursor: pointer;
 }
 
@@ -186,12 +193,15 @@ hr.small {
 
 #menu li
 {
-    margin-top: 20px;
+    /*margin-top: 20px;*/
+    margin-top: 1.25em;
 }
 /* ////       PORTFOLIO   //// */
 
 .portfolio{
-    padding: 10px;
-    margin: 20px;
+    /*padding: 10px;*/
+    padding: 0.625em;
+    /*margin: 20px;*/
+    margin: 1.25em;
 }
 
