@@ -11,6 +11,10 @@
 
     <title>Portfolio Marie Lu-K Front-end & UI Developer</title>
 
+    <!-- link favicon -->
+    <link rel="icon" type="image/png" href="public/img/favicon.png" />
+    <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="public/img/favicon.ico" /><![endif]-->
+
     <!-- Bootstrap Core CSS -->
     <link href="public/css/bootstrap.min.css" rel="stylesheet">
 
