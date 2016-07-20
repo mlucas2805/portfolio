@@ -174,7 +174,7 @@ hr.small {
 }
 
 /* *** CSS BOUTON DE PARTAGE RESEAUX SOCIAUX *** */
-#menu
+.menu
 {
     position:fixed;
     top:30%;
@@ -186,12 +186,12 @@ hr.small {
     margin-left: 0%;
 }
 
-#menu ul
+.menu ul
 {
     list-style-type: none;
 }
 
-#menu li
+.menu li
 {
     /*margin-top: 20px;*/
     margin-top: 1.25em;
